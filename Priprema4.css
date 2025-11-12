@@ -1,0 +1,30 @@
+.header {
+    position: relative;
+    background: black ;
+    padding-left: 100px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+header {
+    font-size: large;
+    color: white;
+}
+p {
+    font-size: small;
+    color: gray;
+}
+body {
+    margin:0 ;
+    background-color: rgb(190, 190, 190);
+}
+main {
+    background-color: pink;
+    position: relative;
+    border: 2px orange;
+}
+img {
+    height: 50%;
+    width: 50%;
+    padding: 175px;
+    padding-top: 100px;
+}
